@@ -4,7 +4,7 @@ Welcome to this crash course on how to create a mobile app with React Native! To
 
 ## 👇🏼 First up, fork and clone the lab repo 👇🏼
 
-[React Native Lab 2 (to fork)](https://github.com/Snap-Engineering-Academy-2022/react_native_lab2)
+[React Native Lab 2](https://github.com/Snap-Engineering-Academy-2022/react_native_lab2)
 
 ### Remember, the first time you clone a React Native repo, you'll need to `yarn install`!
 
